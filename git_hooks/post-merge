@@ -1,0 +1,10 @@
+BLOG_HOME=/home/www/blog.spline.io
+chmod a+x $BLOG_HOME/pull_changes
+su www -c "
+(
+cd $BLOG_HOME
+echo \"Rebuild Spline Blog\"
+. venv/bin/activate
+lilac clean
+lilac build
+)"
