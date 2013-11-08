@@ -13,15 +13,63 @@ Precious minutes wasted if you're lying in the ditch with severe trauma, concuss
 When I got home on that day I did some research: In 2008, the Association for Advancement of Automotive Medicine (AAAM) published a study investigating the effectiveness of Automated Crash Notification (ACN) systems concluding that the percentage of road fatalities is proportional to the reduction in crash notification time according to the following formula: PF = DANT/ANT * 0.14. 
 According to the table below, 7 minutes pass on average between the occurrence of a crash and emergency services receiving the distress call in rural areas (4 minutes for urban areas). 
 
-|------------------------------------------------------|--------|------|
-|Time interval                                         | Urban	| Rural|
-|------------------------------------------------------|--------|------|
-|Crash to EMS notification                             | 4 min	|7 min |
-|EMS notification to scene arrival	               | 6 min	|11 min|
-|Scene arrival to hospital arrival	               | 26 min	|36 min|
-|Total time elapsed from crash to hospital arrival     | 36 min	|54 min|
-|------------------------------------------------------|--------|------|
-
+<table>
+  <tr>
+    <td>
+      Time interval
+    </td>
+    <td>
+      Urban
+    </td>
+    <td>
+      Rural
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Crash to EMS notification
+    </td>
+    <td>
+      4 min
+    </td>
+    <td>
+      7 min
+    </td>
+  </tr>
+  <tr>
+    <td>
+      EMS notification to scene arrival
+    </td>
+    <td>
+      6 min
+    </td>
+    <td>
+      11 min
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Scene arrival to hospital arrival
+    </td>
+    <td>
+      26 min
+    </td>
+    <td>
+      36 min
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Total time elapsed from crash to hospital arrival
+    </td>
+    <td>
+      36 min
+    </td>
+    <td>
+      54 min
+    </td>
+  </tr>
+</table>
 This means that if this number can be reduced to 1 minute, the percentage of road fatalities would decrease by 12% (10% in urban areas). These are quite impressive numbers considering there have been over 4000 motorcycle deaths in the US alone in 2011. 
 The study further revealed that typical expenses associated with ACN or vehicle telematic systems in general are in the range of 199-299$ per year plus installation costs. Hence, despite the significant impact that ACN is predicted to have on the road toll such systems are relatively rare on our roads.
 
