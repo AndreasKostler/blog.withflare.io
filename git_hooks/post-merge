@@ -1,10 +1,9 @@
-BLOG_HOME=/home/www/blog.spline.io
+BLOG_HOME=/home/www/blog.withflare.io
 chmod a+x $BLOG_HOME/pull_changes
 su www -c "
 (
 cd $BLOG_HOME
-echo \"Rebuild Spline Blog\"
-. venv/bin/activate
-lilac clean
-lilac build
+echo \"Rebuild withflare.io Blog\"
+make clean
+make build
 )"
