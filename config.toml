@@ -14,10 +14,10 @@ root_path = ""
 
 [blog]
 # What is your blog's name?
-name = "blog.withflare.io"
+name = "Ride With Confidence"
 
 # What is your blog about?
-description = "withflare.io development and insights"
+description = "News from the withflare.io Development Team"
 
 # your blog's url(ends without '/'). This url is will only used
 # in feed generation. If you don't have one,  leave here blank.
@@ -36,4 +36,4 @@ shortname = "your-disqus-short-name"
 
 [theme]  # you can reset theme's default configuration here
 
-github = "andreaskoestler"  # theme requires your github username
+github = "AndreasKostler"  # theme requires your github username
