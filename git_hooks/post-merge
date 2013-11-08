@@ -4,7 +4,7 @@ su www -c "
 (
 cd $BLOG_HOME
 echo \"Rebuild withflare.io Blog\"
-. /venv/bin/activate
+. venv/bin/activate
 make clean
 make build
 )"
